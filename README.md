@@ -122,7 +122,7 @@
 
 ### 🏢 Employee Management System — Enterprise REST API
 
-> **[💻 Source Code](https://github.com/RitneshSrivastava)**
+> **[💻 Source Code](https://github.com/RitneshSrivastava/employee_management_system_with_restfulapi)**
 
 | Feature | What was built |
 |---|---|
@@ -152,17 +152,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RitneshSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" />
+<a href="https://github.com/RitneshSrivastava">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitneshSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" height="175" />
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitneshSrivastava&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+<a href="https://github.com/RitneshSrivastava">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitneshSrivastava&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=RitneshSrivastava&theme=tokyonight&hide_border=true" height="175" />
+<img src="https://streak-stats.demolab.com/?user=RitneshSrivastava&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RitneshSrivastava&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=RitneshSrivastava&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
