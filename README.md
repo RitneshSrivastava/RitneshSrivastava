@@ -12,6 +12,9 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
+  <a href="https://ritnesh-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Site-00F2FE?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/ritneshks/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
@@ -41,6 +44,7 @@
 {
   "name"       : "Ritnesh Srivastava",
   "role"       : "Backend Software Engineer",
+  "portfolio"  : "https://ritnesh-portfolio.vercel.app",
   "company"    : "Ex-Intern @ Catination Ventures",
   "education"  : "B.E. CS&E @ Chandigarh University  |  CGPA: 7.54",
   "location"   : "Chandigarh, India",
@@ -50,6 +54,7 @@
 }
 ```
 
+- 🌐 **Personal Portfolio**: [ritnesh-portfolio.vercel.app](https://ritnesh-portfolio.vercel.app) — Modern React + Vite showcase with Video Reel, Spring AI projects & interactive contact form
 - 🚀 **Built & deployed** [CareerPilot](https://careerpilot-frontend-lc3e.onrender.com) — production Spring Boot + Spring AI platform on Render
 - ⚡ Engineered **DB-backed AI caching** that eliminates 100% of redundant OpenAI API calls
 - 🔐 Built production **JWT auth** + BCrypt + Brevo HTTP OTP from scratch
