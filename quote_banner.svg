@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140">
+  <defs>
+    <linearGradient id="quoteBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   style="stop-color:#0d1117"/>
+      <stop offset="50%"  style="stop-color:#161b27"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="quoteAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#58a6ff"/>
+      <stop offset="50%"  style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#38bdf8"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="140" fill="url(#quoteBg)" rx="10"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#quoteAccent)" rx="3" opacity="0.8"/>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="137" width="900" height="3" fill="url(#quoteAccent)" rx="3" opacity="0.8"/>
+
+  <!-- Left quote mark decoration -->
+  <text x="30" y="90" font-family="Georgia, serif" font-size="80" fill="#58a6ff" opacity="0.15" filter="url(#glow)">"</text>
+
+  <!-- Right quote mark decoration -->
+  <text x="840" y="100" font-family="Georgia, serif" font-size="80" fill="#a78bfa" opacity="0.15" filter="url(#glow)">"</text>
+
+  <!-- Decorative left bar -->
+  <rect x="60" y="35" width="3" height="70" fill="url(#quoteAccent)" rx="2" opacity="0.9"/>
+
+  <!-- Quote text line 1 -->
+  <text x="450" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#e6edf3" letter-spacing="0.3">
+    "Clean code always looks like it was written by someone who cares."
+  </text>
+
+  <!-- Quote text line 2 — attribution -->
+  <text x="450" y="92" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#8b949e" letter-spacing="1">
+    — Robert C. Martin  ·  Backend Engineer  ·  Building what lasts
+  </text>
+
+  <!-- Decorative dots row -->
+  <circle cx="420" cy="115" r="2" fill="#58a6ff" opacity="0.4"/>
+  <circle cx="435" cy="115" r="2" fill="#a78bfa" opacity="0.4"/>
+  <circle cx="450" cy="115" r="2" fill="#38bdf8" opacity="0.6"/>
+  <circle cx="465" cy="115" r="2" fill="#a78bfa" opacity="0.4"/>
+  <circle cx="480" cy="115" r="2" fill="#58a6ff" opacity="0.4"/>
+</svg>

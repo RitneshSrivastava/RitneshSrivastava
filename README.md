@@ -219,9 +219,16 @@ open_to:
 
 ---
 
+<!-- QUOTE BANNER -->
+<div align="center">
+  <img src="./quote_banner.svg" alt="Quote" width="100%"/>
+</div>
+
+<br/>
+
 <div align="center">
   <i>⭐ Star my repos if you find them useful! ⭐</i>
   <br/><br/>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-brown?style=flat-square&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-6B3A1F?style=flat-square&logo=coffeescript&logoColor=white" />
 </div>
