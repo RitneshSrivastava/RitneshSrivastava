@@ -12,7 +12,7 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-  <a href="https://linkedin.com/in/ritnesh-srivastava">
+  <a href="https://www.linkedin.com/in/ritneshks/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://leetcode.com/u/Ritnesh123x">
