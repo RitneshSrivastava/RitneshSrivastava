@@ -152,21 +152,24 @@
 
 <div align="center">
 
-<a href="https://github.com/RitneshSrivastava">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitneshSrivastava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" height="175" />
-</a>
+<!-- These shields.io badges are served via GitHub's own CDN — always load -->
+
+![Total Commits](https://img.shields.io/badge/Total_Contributions-141-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-8_days-a78bfa?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public_Repos-dynamic-38bdf8?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+![CareerPilot Stars](https://img.shields.io/github/stars/RitneshSrivastava/careerpilot?style=social&label=CareerPilot%20Stars)
 &nbsp;
-<a href="https://github.com/RitneshSrivastava">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitneshSrivastava&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
-</a>
+![CareerPilot Forks](https://img.shields.io/github/forks/RitneshSrivastava/careerpilot?style=social&label=CareerPilot%20Forks)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/RitneshSrivastava?style=social)
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=RitneshSrivastava&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RitneshSrivastava&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+<!-- Activity Graph — more reliable than stats cards -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RitneshSrivastava&bg_color=0d1117&color=58a6ff&line=a78bfa&point=38bdf8&area=true&hide_border=true" width="100%" />
 
 </div>
 
